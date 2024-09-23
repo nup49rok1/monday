@@ -1,0 +1,66 @@
+영임쌤ip  \\192.168.0.48
+
+
+작업폴더
+C:\드라이브
+ Mtest 
+ ㄴworkhtml
+ ㄴworkPython
+ ㄴ영임공통프로그램
+
+1번째]
+윈도우시작 cmd
+C:\Users\user> ipconfig
+  영임쌤ip  \\192.168.0.48
+
+
+2번째] VScode 다운로드후 설치 
+ VScode
+  ㄴFile메뉴 자동저장
+   ㄴ세팅setting  mouse입력 , map입력 X 
+   ㄴ확장에서  live server 
+
+Mtest 
+ ㄴworkhtml
+   ㄴimages그림폴더
+     ㄴimage그림폴더
+     ㄴtest.html 
+
+
+백단server		프런트front(웹web, 앱app)
+ 스프링(자바)		  jsp/asp/php
+ Django(파이썬)	 	 vueJS/react/svelte
+ C,C++			 지원서비스 라이브러리 
+  
+  상품주문, 고객등록  =====> 데이터 저장 database(oracle,mysql)
+  database = SQL언어 (ddl,dml,dtc)
+  클라우드기반(aws,애저,구글,오라클,ibm)  리눅스기반 
+   빅데이터기반 - 예측,ai자동화,데이터관리 
+   data.go.kr 접속 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
